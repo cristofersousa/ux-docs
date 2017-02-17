@@ -3,7 +3,7 @@
 Se trata de uma coletânea de material, livros, ferramentas, exemplos, exercícios e links que ajudam qualquer profissional a conhecer mais sobre a nobre tarefa de um UX Designer.
 
 
-### Entregáveis - UX 
+### Entregáveis
 
   -  SiteMap  (draw.io) 
   -  Wireframe
@@ -11,7 +11,7 @@ Se trata de uma coletânea de material, livros, ferramentas, exemplos, exercíci
   -  StoryBoards
   -  Especificações por escrito;
 
-### Ferramentas de UX
+### Ferramentas
 
  -  Sketch 
  -  Axure
